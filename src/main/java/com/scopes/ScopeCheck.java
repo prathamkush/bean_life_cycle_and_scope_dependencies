@@ -1,4 +1,4 @@
-package com.bean.lifecycle.cofig.beanlifecycle.scopes;
+package com.scopes;
 
 /*
 //BEAN SCOPES :
